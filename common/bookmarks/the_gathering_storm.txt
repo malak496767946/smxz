@@ -14,20 +14,6 @@ bookmarks = {
 			focuses = {
 			}
 		}
-		"FRA"={
-			history = "FRA_GATHERING_STORM_DESC"
-			ideology = democratic
-			ideas = {
-				FRA_victors_of_wwi
-				FRA_disjointed_government
-				FRA_protected_by_the_maginot_line
-			}
-			focuses = {
-				FRA_invite_communist_ministers
-				FRA_utilize_the_leagues
-				FRA_je_suis_la_deluge
-			}
-		}
 		"USA"={
 			history = "USA_GATHERING_STORM_DESC"
 			ideology = democratic
@@ -45,7 +31,6 @@ bookmarks = {
 		"ENG"={
 			history = "ENG_GATHERING_STORM_DESC"
 			ideology = democratic
-			available = { has_dlc = "Man the Guns" }
 			ideas = {
 				stiff_upper_lip
 				ENG_the_war_to_end_all_wars
@@ -55,21 +40,6 @@ bookmarks = {
 				ENG_imperial_federation
 				ENG_the_kings_party
 				ENG_organize_the_blackshirts
-			}
-		}
-		"ENG"={
-			history = "ENG_GATHERING_STORM_DESC"
-			ideology = democratic
-			available = { NOT = { has_dlc = "Man the Guns" } }
-			ideas = {
-				stiff_upper_lip
-				ENG_the_war_to_end_all_wars
-				george_v
-			}
-			focuses = {
-				tizard_mission_focus
-				ENG_war_with_germany
-				ENG_war_with_italy
 			}
 		}
 		"GER"={
@@ -631,21 +601,6 @@ bookmarks = {
 			minor = yes
 			history = FIN_GATHERING_STORM_DESC
 			ideology = neutrality
-			available = {  NOT = { has_dlc = "Arms Against Tyranny" } }
-			ideas = {
-				FIN_sisu_2
-			}
-			focuses = {
-				FIN_winter_warfare
-				FIN_greater_finland
-				FIN_oy_alkoholiliike
-			}
-		}
-		FIN={
-			minor = yes
-			history = FIN_GATHERING_STORM_DESC
-			ideology = neutrality
-			available = { has_dlc = "Arms Against Tyranny" } 
 			ideas = {
 				FIN_sisu_2
 			}
@@ -659,7 +614,6 @@ bookmarks = {
 			minor = yes
 			history = "SWE_GATHERING_STORM_DESC"
 			ideology = democratic
-			available = { has_dlc = "Arms Against Tyranny" } 
 			ideas = {
 				SWE_hungershield
 				SWE_gustaf_v_idea
@@ -705,7 +659,6 @@ bookmarks = {
 			minor = yes
 			history = BRA_GATHERING_STORM_DESC
 			ideology = democratic
-			available = { has_dlc = "Trial of Allegiance" }
 			ideas = {
 				#BRA_undiversified_economy_modifier
 				#SMB_MTG_naval_arms_race_legacy
@@ -724,7 +677,6 @@ bookmarks = {
 			minor = yes
 			history = CHL_GATHERING_STORM_DESC
 			ideology = democratic
-			available = { has_dlc = "Trial of Allegiance" }
 			ideas = {
 				idea_CHL_near_anarchic_society
 				idea_CHL_the_Hacienda_inquilinaje_system
@@ -740,7 +692,6 @@ bookmarks = {
 			minor = yes
 			history = ARG_GATHERING_STORM_DESC
 			ideology = neutrality
-			available = { has_dlc = "Trial of Allegiance" }
 			ideas = {
 				ARG_infamous_decade_idea
 				ARG_roca_runciman_treaty_idea
