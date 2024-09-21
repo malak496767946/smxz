@@ -1,0 +1,1 @@
+SMZ = "countries/smxz.txt"
