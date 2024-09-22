@@ -1,0 +1,15 @@
+characters={
+	SMZ_Timec ={
+		name="Timec"
+		portraits={
+			civilian={
+				large="GFX_portrait_SMZ_Timec"
+			}
+		}
+		country_leader={
+			ideology=oligarchism
+			expire="1999.1.1.1"
+			id=-1
+		}
+	}
+}

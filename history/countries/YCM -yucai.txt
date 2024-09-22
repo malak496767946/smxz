@@ -1,0 +1,25 @@
+﻿capital = 596
+
+oob = "yucai_1936"
+
+set_technology = {
+	infantry_weapons = 1
+	
+}
+
+recruit_character = YCM_gyz
+
+add_manpower = 114514
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	democratic = 5
+	fascism = 10
+	communism = 10
+	neutrality = 75
+}

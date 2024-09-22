@@ -1,1 +1,2 @@
 SMZ = "countries/smxz.txt"
+YCM = "countries/yucai.txt"

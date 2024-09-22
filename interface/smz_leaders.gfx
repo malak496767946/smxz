@@ -1,0 +1,12 @@
+spriteTypes = {	
+    				
+	spriteType = {
+		name = "GFX_portrait_SMZ_Timec"
+		texturefile = "gfx/leaders/SMZ/timec.png"
+	}
+
+		spriteType = {
+		name = "GFX_portrait_YCM_gyz"
+		texturefile = "gfx/leaders/YCM/gyz.png"
+	}
+}

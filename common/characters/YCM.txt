@@ -1,0 +1,15 @@
+characters={
+	YCM_gyz ={
+		name="郜晏中"
+		portraits={
+			civilian={
+				large="GFX_portrait_YCM_gyz"
+			}
+		}
+		country_leader={
+			ideology=oligarchism
+			expire="1999.1.1.1"
+			id=-1
+		}
+	}
+}
