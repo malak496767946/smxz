@@ -1,0 +1,14 @@
+ideas = {
+
+    country={
+        smz_res={
+            picture=NOTING
+            allowed={
+                always=yes
+                }
+            allowed_civil_war={
+                always=yes
+            }
+        }
+    }
+}
