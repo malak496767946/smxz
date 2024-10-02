@@ -1,2 +1,3 @@
 SMZ = "countries/smxz.txt"
 YCM = "countries/yucai.txt"
+TAI = "countries/kouki.txt"

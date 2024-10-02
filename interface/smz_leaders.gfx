@@ -10,9 +10,14 @@ spriteTypes = {
 		texturefile = "gfx/leaders/YCM/gyz.png"
 	}
 
-			spriteType = {
+		spriteType = {
 		name = "GFX_portrait_MAN_aisin_gioro_puyi"
 		texturefile = "gfx/leaders/MAN/otto.png"
+	}
+
+		spriteType = {
+		name = "GFX_portrait_TAI_kouki"
+		texturefile = "gfx/leaders/TAI/kouki.png"
 	}
 }
 
