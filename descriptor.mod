@@ -4,5 +4,6 @@ tags={
 	""
 }
 supported_version="1.14.*"
+replace_path="gfx/loadingscreens"
 path="C:/Users/emmmd/Documents/Paradox Interactive/Hearts of Iron IV/mod/smxz"
 remote_file_id="1145141919810"

@@ -6,15 +6,17 @@ state={
 	}
 	manpower=1919810
 	buildings_max_level_factor=1.000
-	state_category = wasteland
+	state_category = town
 	history={
 		owner = SMZ
 		add_core_of = SMZ
+		add_core_of = SIK
 		add_core_of = CHI
 		add_core_of = PRC
 		buildings = {
-			infrastructure = 1
-
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 1
 		}
 		victory_points = {
 			2074 5

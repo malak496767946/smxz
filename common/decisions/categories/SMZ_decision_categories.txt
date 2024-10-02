@@ -1,0 +1,10 @@
+sha_mo_zhan_zheng = {
+
+	priority = 100 
+
+	visible_when_empty = no
+
+	visible = {
+		has_completed_focus = SMZ_jie_chu_tnt
+	}
+}

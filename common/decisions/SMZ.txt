@@ -1,0 +1,46 @@
+sha_mo_zhan_zheng = {
+	SMZ_buy_rifle = {
+
+		icon = generic_prepare_civil_war
+		days_remove = 10
+		fire_only_once = yes
+		cost = 25
+
+		complete_effect = {
+			
+		}
+		modifier = {
+        	consumer_goods_factor = 0.3
+		}
+
+		remove_effect = {
+			add_equipment_to_stockpile = {
+				type = infantry_equipment_0
+				amount = 2000
+				producer = CHI
+			}
+		}
+
+		ai_will_do = {
+			base = 200
+		}
+	}
+	SMZ_shan_di_shi_wo_men_de = {
+
+		fire_only_once = yes
+		cost = 25
+
+		complete_effect = {
+			759 = {
+				remove_core_of = SIK
+			}
+			add_war_support = 10
+			SIK = {
+				add_war_support = -10
+			}
+		}
+		ai_will_do = {
+			base = 200
+		}
+	}
+}

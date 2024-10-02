@@ -1,0 +1,23 @@
+focus_tree={
+	id=SMZ_focus_tree
+	country={
+		factor=0
+		modifier={
+			add=10
+			tag=SMZ
+		}
+	}
+	default=no
+	focus={
+		id=SMZ_jie_chu_tnt
+		x=0
+		y=0
+		cost=2
+		ai_will_do={
+			factor=1
+		}
+		available_if_capitulated=yes
+		completion_reward={
+		}
+	}
+}
