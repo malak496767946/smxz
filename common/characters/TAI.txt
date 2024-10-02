@@ -1,0 +1,15 @@
+characters={
+	TAI_kouki ={
+		name="阿神"
+		portraits={
+			civilian={
+				large="GFX_portrait_TAI_kouki"
+			}
+		}
+		country_leader={
+			ideology=oligarchism
+			expire="1999.1.1.1"
+			id=-1
+		}
+	}
+}
