@@ -34,9 +34,9 @@ sha_mo_zhan_zheng = {
 			759 = {
 				remove_core_of = SIK
 			}
-			add_war_support = 10
+			add_war_support = 0.1
 			SIK = {
-				add_war_support = -10
+				add_war_support = -0.1
 			}
 		}
 		ai_will_do = {
