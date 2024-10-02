@@ -9,4 +9,10 @@ spriteTypes = {
 		name = "GFX_portrait_YCM_gyz"
 		texturefile = "gfx/leaders/YCM/gyz.png"
 	}
+
+			spriteType = {
+		name = "GFX_portrait_MAN_aisin_gioro_puyi"
+		texturefile = "gfx/leaders/MAN/otto.png"
+	}
 }
+
