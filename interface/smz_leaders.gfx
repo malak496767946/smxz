@@ -19,5 +19,10 @@ spriteTypes = {
 		name = "GFX_portrait_TAI_kouki"
 		texturefile = "gfx/leaders/TAI/kouki.png"
 	}
+
+		spriteType = {
+		name = "GFX_portrait_wang_ye"
+		texturefile = "gfx/leaders/XSM/wang_ye.png"
+	}
 }
 
