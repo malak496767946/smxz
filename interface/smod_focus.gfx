@@ -1,0 +1,9 @@
+spriteTypes = {	
+    				
+	spriteType = {
+		name = "GFX_focus_SMZ_jie_chu_tnt"
+		texturefile = "gfx/focus/SMZ_jie_chu_tnt.png"
+	}
+
+}
+
