@@ -4,7 +4,7 @@ bookmarks = {
 		desc = "GATHERING_STORM_DESC"
 		date = 1936.1.1.12
 		picture = "GFX_select_date_1936"
-		default_country = "GER"
+		default_country = "SMZ"
 		default = yes
 		"SMZ"={
 			history = "SMZ_GATHERING_STORM_DESC"
@@ -114,11 +114,6 @@ bookmarks = {
 			history = "SOV_GATHERING_STORM_DESC"
 			ideology = communism
 			available = { has_dlc = "No Step Back" }
-			ideas = {
-				trotskyite_plot_nsb
-				SOV_second_five_year_plan_fake_1936_ns
-				SOV_politicized_military
-			}
 			focuses = {
 				SOV_behead_the_snake
 				SOV_the_supreme_soviet
@@ -163,9 +158,6 @@ bookmarks = {
 			minor = yes
 			history = "NZL_GATHERING_STORM_DESC"
 			ideology = democratic
-			ideas = {
-				
-			}
 			focuses = {
 				NZL_bob_semple_tank
 				NZL_independent_new_zealand
@@ -566,10 +558,6 @@ bookmarks = {
 			minor = yes
 			history = "SWI_GATHERING_STORM_DESC"
 			ideology = democratic
-			ideas = {
-				SWI_swiss_neutrality
-				SWI_foreign_fascist_propaganda
-			}
 			focuses = {
 				SWI_national_redoubt
 				SWI_take_a_stance
