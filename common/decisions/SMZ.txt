@@ -6,8 +6,10 @@ sha_mo_zhan_zheng = {
 		fire_only_once = yes
 		cost = 25
 
-		complete_effect = {
-			
+		visible = {
+			SIK = {
+				exists =yes
+			}
 		}
 		modifier = {
         	consumer_goods_factor = 0.3
@@ -17,7 +19,7 @@ sha_mo_zhan_zheng = {
 			add_equipment_to_stockpile = {
 				type = infantry_equipment_0
 				amount = 2000
-				producer = CHI
+				producer = SMZ
 			}
 		}
 
@@ -29,7 +31,11 @@ sha_mo_zhan_zheng = {
 
 		fire_only_once = yes
 		cost = 25
-
+		visible = {
+			SIK = {
+				exists =yes
+			}
+		}
 		complete_effect = {
 			759 = {
 				remove_core_of = SIK
