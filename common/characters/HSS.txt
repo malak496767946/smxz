@@ -1,0 +1,15 @@
+characters={
+	HSS_wjy ={
+		name="王建勇"
+		portraits={
+			civilian={
+				large="GFX_portrait_HSS_wjy"
+			}
+		}
+		country_leader={
+			ideology=nazism
+			expire="1999.1.1.1"
+			id=-1
+		}
+	}
+}

@@ -182,9 +182,9 @@
   JAP_democratic_ADJ: "东雪莲民国"
   JAP_neutrality_ADJ: "德川幕府"
   JAP_communism_ADJ: "亚细亚社会主义共和国联盟"
-  JAP: "楼兰古国"
-  JAP_DEF: "楼兰古国"
-  JAP_ADJ: "楼兰古国"
+  JAP: "孙咲川国"
+  JAP_DEF: "孙咲川国"
+  JAP_ADJ: "孙咲川国"
 
   JAP_neutrality_party:0 "德川幕府"
   JAP_communism_party:0 "康米派对"
@@ -192,3 +192,27 @@
   JAP_democratic_party:0 "东雪莲政府"
 
   JAP_GATHERING_STORM_DESC:0 "来来来看看这是什么物业"
+
+
+  HSS_fascism: "衡水中学"
+  HSS_fascism_DEF: "衡水中学"
+  HSS_democratic: "衡水中学"
+  HSS_democratic_DEF: "衡水中学"
+  HSS_neutrality: "衡水中学"
+  HSS_neutrality_DEF: "衡水中学"
+  HSS_communism: "衡水中学"
+  HSS_communism_DEF: "衡水中学"
+  HSS_fascism_ADJ: "衡水中学"
+  HSS_democratic_ADJ: "衡水中学"
+  HSS_neutrality_ADJ: "衡水中学"
+  HSS_communism_ADJ: "衡水中学"
+  HSS: "衡水中学"
+  HSS_DEF: "衡水中学"
+  HSS_ADJ: "衡水中学"
+
+  HSS_neutrality_party:0 "王建勇集团"
+  HSS_communism_party:0 "中国共产党"
+  HSS_fascism_party:0 "王建勇集团"
+  HSS_democratic_party:0 "学生议事会"
+
+  HSS_GATHERING_STORM_DESC:0 "傻逼玩意"
